@@ -3,12 +3,6 @@ id: projects
 title: Projects
 ---
 
-Embed any notable projects in this page.
+Want to bake a bake, but can't decide what kind? With the Bake a Bread app, you can simply click on the loaf of bread and a bread recipe will appear in another window! Not feeling the recipe that popped up? You can click on The Loaf as many times as you want, and a different recipe will appear!
 
-For example, my favorite project would be linked and I can even embed
-a screenshot or GIF to show it.
-
-You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
-or even embed images with the following Markdown:
-
-![Add alternate text for image](./assets/rosemary.png)
+![italian loaf](./assets/bread_app.png)
